@@ -33,12 +33,16 @@ Then run demo02, demo03...
 
 ## Index
 
-1. [Local Scope](#demo01-local-scope)
-1. [Global Scope](#demo02-global-scope)
-1. [Customized Hash Class Name](#demo03-customized-hash-class-name)
-1. [Composing CSS Classes](#demo04-composing-css-classes)
-1. [Import Other Modules](#demo05-import-other-modules)
-1. [Exporting Values Variables](#demo06-exporting-values-variables)
+- [CSS Modules Demos](#css-modules-demos)
+  - [Usage](#usage)
+  - [Index](#index)
+  - [Demo01: Local Scope](#demo01-local-scope)
+  - [Demo02: Global Scope](#demo02-global-scope)
+  - [Demo03: Customized Hash Class Name](#demo03-customized-hash-class-name)
+  - [Demo04: Composing CSS Classes](#demo04-composing-css-classes)
+  - [Demo05: Import Other Modules](#demo05-import-other-modules)
+  - [Demo06: Exporting Values Variables](#demo06-exporting-values-variables)
+  - [License](#license)
 
 ## Demo01: Local Scope
 
